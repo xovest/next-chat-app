@@ -11,6 +11,7 @@
     "axios": "^0.24.0",
     "next": "^11.1.2",
     "react": "^17.0.2",
+    "react-chat-engine": "^1.11.22",
     "react-dom": "^17.0.2"
   },
   "description": "<img      src=\"https://raw.githubusercontent.com/alamorre/nextjs-chat-app/main/assets/nextjs-chat-tutorial.png\"      width=\"75%\"      height=\"100%\" />",
